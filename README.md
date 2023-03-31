@@ -28,20 +28,7 @@ Content
     7.2 Hyperparameter: eps=4500, MinPts=2
     7.3 Hyperparameter: eps=5000, MinPts=2
    
-the libraries, module and class needed to run the code:
-import pandas as pd
-import geopandas as gpd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import pyproj
-import plotly.express as px
-
-from shapely.geometry import Point
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_samples, silhouette_score
-from sklearn.cluster import DBSCAN
-from st_dbscan import ST_DBSCAN
+  
 
 
 
