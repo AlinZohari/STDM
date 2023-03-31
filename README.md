@@ -1,6 +1,8 @@
 # STDM
 ## THEFT CRIME CLUSTERING IN CITY OF CHICAGO USING DENSITY BASED ALGORITHM
 *The code can be found in chicago.ipynb*
+
+
 Content
 1. Data Preprocessing
     1.1 Importing Data
