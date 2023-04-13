@@ -1,4 +1,4 @@
-# STDM
+# STDM (CEGE0042 - Spatial-Temporal Data Analysis and Data Mining)
 ## THEFT CRIME CLUSTERING IN CITY OF CHICAGO USING DENSITY BASED ALGORITHM
 *The code can be found in chicago.ipynb*
 
