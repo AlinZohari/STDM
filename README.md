@@ -74,6 +74,7 @@ Kernel Density Estimation (KDE) in spatial analysis is use to estimate the high 
 
 ## DBSCAN
 (Density-Based Spatial Clustering Application with Noise)
+
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/07fc61ec-8bc7-4496-bd34-25b88abf6465) <br>
 DBSCAN Cluster the Month of July 2022. The cluster shown is 2 with its hyperparameter set to epsilon: 7500, MinPts: 2 and Silhouette Score: 0.4750
 
@@ -82,5 +83,6 @@ DBSCAN Cluster the Month of July 2022. The cluster shown is 6 with its hyperpara
 
 ## ST-DBSCAN
 (Spatial-Temporal Density-Based Spatial Clustering of Applications with Noise)
+
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/a56f19a0-fd46-476c-8ecb-3967ad1bbc09) <br>
 ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top left temporal_eps 1: Morning, 2: Afternoon, 3: Evening and 4: Night
