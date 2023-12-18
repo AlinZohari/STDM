@@ -16,21 +16,29 @@ A point geometry are then created to the datasets having a Longitude and Latitud
 This is for the ease of applying the clustering (Rahimi & Yazdani-Chamzini, 2019).
 
 ## Exploratory Data Analysis
-![image](https://github.com/AlinZohari/STDM/assets/89179323/05e23de0-0bef-45fc-9b85-5f619d100888)
-From Figure 1 it shows the highest theft rate is in July with 5620 occurrence. Further investigation was conducted to determine the time of day when thefts occurred most frequently in month of July. 
+![image](https://github.com/AlinZohari/STDM/assets/89179323/05e23de0-0bef-45fc-9b85-5f619d100888) <br>
+From figure above it shows the highest theft rate is in July with 5620 occurrence. Further investigation was conducted to determine the time of day when thefts occurred most frequently in month of July. 
 The study found that the highest rate of thefts occurred during the night with a total of 1,694 occurrences. The second-highest rate of thefts occurred in the afternoon with 1,501 occurrences. Hence, this study would be looking at the clustering of theft in July 2022 and further the clustering of Part of Day the crime is happening.
 Part of the day is determine as follow:
 Morning: 5am to 12pm, Afternoon: 12pm to 5pm, Evening: 5pm to 9pm and Night: 9pm to 4am.
 
-## Exploratory spatial-Temporal Data Analysia
-![image](https://github.com/AlinZohari/STDM/assets/89179323/5b296e15-8d62-4ba3-a7cb-8d3ba7ee1911)
-Kernel Density Estimation (KDE) in spatial analysis are use to estimate the high and low density of theft distribution in space using 3D scatterplot
-![image](https://github.com/AlinZohari/STDM/assets/89179323/1afde2de-92bf-4bf9-8d1b-1105754371aa)
+## Exploratory Spatial-Temporal Data Analysia
+![image](https://github.com/AlinZohari/STDM/assets/89179323/5b296e15-8d62-4ba3-a7cb-8d3ba7ee1911)<br>
+Kernel Density Estimation (KDE) in spatial analysis is use to estimate the high and low density of theft distribution in space using 3D scatterplot
+![image](https://github.com/AlinZohari/STDM/assets/89179323/1afde2de-92bf-4bf9-8d1b-1105754371aa)<br>
 
-![image](https://github.com/AlinZohari/STDM/assets/89179323/bd305633-b34a-45fd-9964-49dcd73bf0c2)
+![image](https://github.com/AlinZohari/STDM/assets/89179323/bd305633-b34a-45fd-9964-49dcd73bf0c2)<br>
 
+## DBSCAN
+![image](https://github.com/AlinZohari/STDM/assets/89179323/07fc61ec-8bc7-4496-bd34-25b88abf6465)<br>
+DBSCAN Cluster the Month of July 2022. The cluster shown is 2 with its hyperparameter set to epsilon: 7500, MinPts: 2 and Silhouette Score: 0.4750
 
+![image](https://github.com/AlinZohari/STDM/assets/89179323/eee2bf28-fdd9-4596-8b6e-12802751a15c)<br>
+DBSCAN Cluster the Month of July 2022. The cluster shown is 6 with its hyperparameter set to epsilon: 4500, MinPts: 2 and Silhouette Score: 0.1900
 
+## ST-DBSCAN
+![image](https://github.com/AlinZohari/STDM/assets/89179323/a56f19a0-fd46-476c-8ecb-3967ad1bbc09)<br>
+ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top left temporal_eps 1: Morning, 2: Afternoon, 3: Evening and 4: Night
 
 
 
