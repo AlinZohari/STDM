@@ -41,6 +41,7 @@ DBSCAN Cluster the Month of July 2022. The cluster shown is 6 with its hyperpara
 ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top left temporal_eps 1: Morning, 2: Afternoon, 3: Evening and 4: Night
 
 
+## Notebook Content
 
 
 1. Data Preprocessing<br>
@@ -69,11 +70,3 @@ ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top l
     7.1 Hyperparameter: eps=7500, MinPts=2
     7.2 Hyperparameter: eps=4500, MinPts=2
     7.3 Hyperparameter: eps=5000, MinPts=2
-   
-  
-
-
-
-Abstract
-
-Identifying crime patterns and trends is an essential initial phase in developing effective prevention measures, as it provides law enforcement officials to prioritize their efforts on the areas where crime is most likely to occur (Cohen and Tita, 1999). Hence, it is vital to identify and investigate these crime clusters. Theft has been identified as the most prevalent crime type in Chicago from January to December of 2022, making it an important area of investigation. To analyse the spatial distribution of theft incidents, Kernel Density Estimation (KDE) is employed to estimate the density of theft occurrences throughout the city. DBSCAN and ST-DBSCAN are the method use for identifying clusters in spatial and spatial-temporal data, respectively. The use of Silhouette Score as a performance validation metric ensures the optimal hyperparameter tuned and produce a reliable cluster models.
