@@ -25,19 +25,19 @@ Morning: 5am to 12pm, Afternoon: 12pm to 5pm, Evening: 5pm to 9pm and Night: 9pm
 ## Exploratory Spatial-Temporal Data Analysia
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/5b296e15-8d62-4ba3-a7cb-8d3ba7ee1911)<br>
 Kernel Density Estimation (KDE) in spatial analysis is use to estimate the high and low density of theft distribution in space using 3D scatterplot
-![image](https://github.com/AlinZohari/STDM/assets/89179323/1afde2de-92bf-4bf9-8d1b-1105754371aa)<br>
+![image](https://github.com/AlinZohari/STDM/assets/89179323/1afde2de-92bf-4bf9-8d1b-1105754371aa) <br>
 
-![image](https://github.com/AlinZohari/STDM/assets/89179323/bd305633-b34a-45fd-9964-49dcd73bf0c2)<br>
+![image](https://github.com/AlinZohari/STDM/assets/89179323/bd305633-b34a-45fd-9964-49dcd73bf0c2) <br>
 
 ## DBSCAN
-![image](https://github.com/AlinZohari/STDM/assets/89179323/07fc61ec-8bc7-4496-bd34-25b88abf6465)<br>
+![image](https://github.com/AlinZohari/STDM/assets/89179323/07fc61ec-8bc7-4496-bd34-25b88abf6465) <br>
 DBSCAN Cluster the Month of July 2022. The cluster shown is 2 with its hyperparameter set to epsilon: 7500, MinPts: 2 and Silhouette Score: 0.4750
 
-![image](https://github.com/AlinZohari/STDM/assets/89179323/eee2bf28-fdd9-4596-8b6e-12802751a15c)<br>
+![image](https://github.com/AlinZohari/STDM/assets/89179323/eee2bf28-fdd9-4596-8b6e-12802751a15c) <br>
 DBSCAN Cluster the Month of July 2022. The cluster shown is 6 with its hyperparameter set to epsilon: 4500, MinPts: 2 and Silhouette Score: 0.1900
 
 ## ST-DBSCAN
-![image](https://github.com/AlinZohari/STDM/assets/89179323/a56f19a0-fd46-476c-8ecb-3967ad1bbc09)<br>
+![image](https://github.com/AlinZohari/STDM/assets/89179323/a56f19a0-fd46-476c-8ecb-3967ad1bbc09) <br>
 ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top left temporal_eps 1: Morning, 2: Afternoon, 3: Evening and 4: Night
 
 
