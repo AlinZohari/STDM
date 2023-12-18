@@ -5,7 +5,7 @@ A [Spatial-Temporal Data Analysis and Data Mining project](https://github.com/Al
 1. [Notebook Content](https://github.com/AlinZohari/STDM/blob/main/README.md#notebook-content)
 2. [Abstract](https://github.com/AlinZohari/STDM/blob/main/README.md#abstract)
 3. [Data Sources](https://github.com/AlinZohari/STDM/blob/main/README.md#data-sources)
-4. [Exploratory](https://github.com/AlinZohari/STDM/blob/main/README.md#exploratory-data-analysis)
+4. [Exploratory Data Analysis](https://github.com/AlinZohari/STDM/blob/main/README.md#exploratory-data-analysis)
 5. [Exploratory Spatial-Temporal Data Analysis](https://github.com/AlinZohari/STDM/blob/main/README.md#exploratory-spatial-temporal-data-analysia)
 6. [DBSCAN](https://github.com/AlinZohari/STDM/blob/main/README.md#dbscan)
 7. [ST-DBSCAN](https://github.com/AlinZohari/STDM/blob/main/README.md#st-dbscan) 
