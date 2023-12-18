@@ -44,29 +44,34 @@ ST-DBSCAN Clusters of Theft in Chicago for different Part of the Day. From top l
 ## Notebook Content
 
 
-1. Data Preprocessing<br>
-    1.1 Importing Data<br>
-    1.2 Preprocessing the Datasets<br>
-    1.3 Preprocessing Shapefile<br>
+1. Data Preprocessing <br>
+    1.1 Importing Data <br>
+    1.2 Preprocessing the Datasets <br>
+    1.3 Preprocessing Shapefile <br>
     
-2. Plotting the point to the Shapefile
-    - Change the CRS of both datasets and shapefile to ESPG: 3435
-3. EDA
-    3.1 Crime Type Distribution
-    3.2 Theft by month in the year 2022
-    3.3 Theft by Part of the Day in July 2022
-4. ESTDA
-    4.1 KDE in July 2022
-    4.2 KDE of Part of the Day in July 2022
-    4.3 3D Scatterplot 
-5. Hyperparameter Tuning of Clustering
-    5.1 Preparation for Hyperparameter Tuning and Exploration for the Number of Clusters
-    5.2 Hyperparameter Tuning: Epsilon (eps)
-    5.3 Hyperparameter Tuning: Minimum Point (MinPts)
-6. Visualisation of DBSCAN
-    6.1 Hyperparameter: eps=7500, MinPts=2
-    6.2 Hyperparameter: eps=4500, MinPts=2
-7. Visualisation of ST-DBSCAN
-    7.1 Hyperparameter: eps=7500, MinPts=2
-    7.2 Hyperparameter: eps=4500, MinPts=2
-    7.3 Hyperparameter: eps=5000, MinPts=2
+2. Plotting the point to the Shapefile <br>
+    - Change the CRS of both datasets and shapefile to ESPG: 3435 <br>
+    
+3. EDA <br>
+    3.1 Crime Type Distribution <br>
+    3.2 Theft by month in the year 2022 <br>
+    3.3 Theft by Part of the Day in July 2022 <br>
+    
+4. ESTDA <br>
+    4.1 KDE in July 2022 <br>
+    4.2 KDE of Part of the Day in July 2022 <br>
+    4.3 3D Scatterplot <br>
+    
+5. Hyperparameter Tuning of Clustering <br>
+    5.1 Preparation for Hyperparameter Tuning and Exploration for the Number of Clusters <br>
+    5.2 Hyperparameter Tuning: Epsilon (eps) <br>
+    5.3 Hyperparameter Tuning: Minimum Point (MinPts) <br>
+    
+6. Visualisation of DBSCAN <br>
+    6.1 Hyperparameter: eps=7500, MinPts=2 <br>
+    6.2 Hyperparameter: eps=4500, MinPts=2 <br>
+    
+7. Visualisation of ST-DBSCAN <br>
+    7.1 Hyperparameter: eps=7500, MinPts=2 <br>
+    7.2 Hyperparameter: eps=4500, MinPts=2 <br>
+    7.3 Hyperparameter: eps=5000, MinPts=2 <br>
