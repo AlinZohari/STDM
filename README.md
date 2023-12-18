@@ -1,13 +1,13 @@
-# STDM (CEGE0042 - Spatial-Temporal Data Analysis and Data Mining)
-## THEFT CRIME CLUSTERING IN CITY OF CHICAGO USING DENSITY BASED ALGORITHM
-*The code can be found in chicago.ipynb*
+# Theft Crime Clustering in City of Chicago using Density Based Algorithm
+A [Spatial-Temporal Data Analysis and Data Mining project](https://github.com/AlinZohari/STDM/blob/main/chicago.ipynb)
 
+**Table of Content**
 
-Content
-1. Data Preprocessing
-    1.1 Importing Data
-    1.2 Preprocessing the Datasets
-    1.3 Preprocessing Shapefile
+1. Data Preprocessing<br>
+    1.1 Importing Data<br>
+    1.2 Preprocessing the Datasets<br>
+    1.3 Preprocessing Shapefile<br>
+    
 2. Plotting the point to the Shapefile
     - Change the CRS of both datasets and shapefile to ESPG: 3435
 3. EDA
