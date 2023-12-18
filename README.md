@@ -12,7 +12,7 @@ A [Spatial-Temporal Data Analysis and Data Mining project](https://github.com/Al
 
 
 ## Notebook Content
-The code of this project are in this [jupyter notebook] (https://github.com/AlinZohari/STDM/blob/main/chicago.ipynb) which were done step-by-step
+The code of this project are in this [jupyter notebook](https://github.com/AlinZohari/STDM/blob/main/chicago.ipynb) which were done step-by-step
 
 1. Data Preprocessing <br>
     1.1 Importing Data <br>
