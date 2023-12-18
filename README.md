@@ -20,7 +20,7 @@ The code of this project are in this jupyter notebook which were done step-by-st
     1.3 Preprocessing Shapefile <br>
     
 2. Plotting the point to the Shapefile <br>
-    - Change the CRS of both datasets and shapefile to ESPG: 3435 <br>
+Change the CRS of both datasets and shapefile to ESPG: 3435 <br>
     
 3. EDA <br>
     3.1 Crime Type Distribution <br>
