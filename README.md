@@ -65,9 +65,9 @@ The study found that the highest rate of thefts occurred during the night with a
 Part of the day is determine as follow:
 Morning: 5am to 12pm, Afternoon: 12pm to 5pm, Evening: 5pm to 9pm and Night: 9pm to 4am.
 
-## Exploratory Spatial-Temporal Data Analysia
+## Exploratory Spatial-Temporal Data Analysis
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/5b296e15-8d62-4ba3-a7cb-8d3ba7ee1911) <br>
-Kernel Density Estimation (KDE) in spatial analysis is use to estimate the high and low density of theft distribution in space using 3D scatterplot
+Kernel Density Estimation (KDE) in spatial analysis is use to estimate the high and low density of theft distribution in space using 3D scatterplot <br>
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/1afde2de-92bf-4bf9-8d1b-1105754371aa) <br>
 
 ![image](https://github.com/AlinZohari/STDM/assets/89179323/bd305633-b34a-45fd-9964-49dcd73bf0c2) <br>
